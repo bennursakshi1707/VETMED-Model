@@ -2,7 +2,8 @@ Here's a comprehensive `README.md` for the VetMed model project based on the inf
 
 ---
 
-# VetMed Model
+
+# VetMed Model - saved check point 297 Epoch - https://drive.google.com/drive/folders/1rVSLNBI5NHC9MnEiC0wwXwmpouMt-tfV?usp=share_link
 
 ## Overview
 
